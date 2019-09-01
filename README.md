@@ -19,7 +19,7 @@ This project uses standards from ES2015, ES2016 & ES2017. It uses webpack, Babel
 * [Babel] (https://babeljs.io/)
 
 ## Browser Compatibility
-* [JS ES6] (https://caniuse.com/#feat=es6)
+Compatible with all major browsers
 
 ** Note: ** This script uses modern Javascript ES6 features. 
 ## Getting Started
